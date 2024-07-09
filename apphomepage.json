@@ -1,0 +1,20 @@
+{
+    "appstatus": "on",
+    "appcurrentversion": "1.0.0+11",
+    "appmybenefit": 20,
+    "totalStates": [
+        "Select Visiting State",
+        "UTTAR PARDESH",
+        "RAJASTHAN",
+        "HARYANA",
+        "PUNJAB",
+        "UTTRAKHAND",
+        "HIMACHAL PRADESH",
+        "MADHYA PRADESH",
+        "GUJARAT",
+        "CHHATTISGARH",
+        "BIHAR",
+        "JHARKHAND",
+        "MAHARASHTRA"
+    ]
+}
