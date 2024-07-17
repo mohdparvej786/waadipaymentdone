@@ -1,6 +1,6 @@
 {
     "appcurrentversion": "1.0.0+12",
-    "appmybenefit": "20",
+    "appmybenefit": "22",
     "totalStates": [
         "Select Visiting State",
         "UTTAR PARDESH",
@@ -8,7 +8,6 @@
         "HARYANA",
         "PUNJAB",
         "UTTRAKHAND",
-        "CHHATTISGARH",
         "BIHAR",
         "JHARKHAND",
         "MAHARASHTRA"
@@ -16,7 +15,7 @@
     "tsputtarpradesh": [
         "1440",
         "3600",
-        "120",
+        "11",
         "240",
         "360",
         "480",
