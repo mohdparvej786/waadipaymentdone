@@ -1,6 +1,6 @@
 {
     "appcurrentversion": "1.0.0+12",
-    "appmybenefit": "20",
+    "appmybenefit": "22",
     "totalStates": [
         "Select Visiting State",
         "UTTAR PARDESH",
@@ -19,7 +19,7 @@
     "tsputtarpradesh": [
         "1440",
         "3600",
-        "120",
+        "170",
         "240",
         "360",
         "480",
