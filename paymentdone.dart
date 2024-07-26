@@ -602,22 +602,22 @@ class PaymentDone {
       selectedtaxmodearray = PaymentDone.UTTRAKHANDTAXMODE;
 
       stateseat5day1 = "220";
-      stateseat5day2 = "380";
-      stateseat5day3 = "540";
-      stateseat5day4 = "700";
-      stateseat5day5 = "860";
-      stateseat5day6 = "1020";
-      stateseat5day7 = "1180";
+      stateseat5day2 = "410";
+      stateseat5day3 = "570";
+      stateseat5day4 = "730";
+      stateseat5day5 = "890";
+      stateseat5day6 = "1050";
+      stateseat5day7 = "1210";
 
       /// 6 seat state payment in context of days
 
       stateseat6day1 = "300";
-      stateseat6day2 = "540";
-      stateseat6day3 = "780";
-      stateseat6day4 = "1020";
-      stateseat6day5 = "1260";
-      stateseat6day6 = "1500";
-      stateseat6day7 = "1740";
+      stateseat6day2 = "570";
+      stateseat6day3 = "810";
+      stateseat6day4 = "1050";
+      stateseat6day5 = "1290";
+      stateseat6day6 = "1530";
+      stateseat6day7 = "1770";
 
       return PaymentDone.UTTRAKHAND;
     } else if (state == "GUJARAT") {
