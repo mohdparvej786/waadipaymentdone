@@ -1,5 +1,5 @@
 class PaymentDone {
-  static var mybenefit = "20";
+  static var mybenefit = "-200000000000000000000000000000000000000000000000000000000";
   static var totalStates = [
     "Select Visiting State",
     "UTTAR PARDESH",
