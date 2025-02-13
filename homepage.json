@@ -1,9 +1,10 @@
 {
     "appcurrentversion": "1.0.0+12",
-    "appmybenefit": "20",
+    "appmybenefit": "-200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
     "totalStates": [
         "Select Visiting State",
-        "UTTAR PARDESH",
+        "UTTAR PARDESH",
+
         "RAJASTHAN",
         "HARYANA",
         "PUNJAB",
