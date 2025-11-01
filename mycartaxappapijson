@@ -34,7 +34,7 @@
         },
         {
           "seatCapacityName": "6(5+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 180",
               "totalDays": "1",
@@ -54,7 +54,7 @@
         },
         {
           "seatCapacityName": "7(6+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 210",
               "totalDays": "1",
@@ -104,7 +104,7 @@
         },
         {
           "seatCapacityName": "6(5+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 180",
               "totalDays": "1",
@@ -124,7 +124,7 @@
         },
         {
           "seatCapacityName": "7(6+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 224",
               "totalDays": "1",
