@@ -1,8 +1,8 @@
 {
   "appVersion": "1.0.0+1",
-  "totalprofit": "20",
-  "paymentgatewayfee": "2",
-  "appOnOff": "on",
+  "appCharge": "20",
+  "paymentGatewayFee": "2%",
+  "appOnOffFunction": "on",
   "totalStateList": [
     {
       "stateName": "UTTAR PRADESH",
@@ -14,7 +14,7 @@
       "totalSeatCapacityList": [
         {
           "seatCapacityName": "5(4+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 120",
               "totalDays": "1",
@@ -84,7 +84,7 @@
       "totalSeatCapacityList": [
         {
           "seatCapacityName": "5(4+1)",
-          "taxMode": [
+          "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 170",
               "totalDays": "1",
