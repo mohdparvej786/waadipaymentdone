@@ -3,226 +3,146 @@
   "totalprofit": "20",
   "paymentgatewayfee": "2",
   "appOnOff": "on",
-  "totalstatelist": [
-    "Select Visiting State",
-    "UTTAR PRADESH",
-    "RAJASTHAN",
-    "HARYANA",
-    "PUNJAB",
-    "UTTRAKHAND",
-    "HIMACHAL PRADESH",
-    "MADHYA PRADESH",
-    "GUJARAT",
-    "CHHATTISGARH",
-    "BIHAR",
-    "JHARKHAND",
-    "MAHARASHTRA"
-  ],
-  "UTTAR PRADESH": {
-    "ENTRY BORDER LIST": [
-      "AGRA",
-      "ALIGARH",
-      "BAGHPAT"
-    ],
-    "VEHICLE TYPE LIST": [
-      "5(4+1)",
-      "6(5+1)",
-      "7(6+1)"
-    ],
-    "5(4+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.120",
-        "Day 2 - Rs.240",
-        "Day 3 - Rs.360"
+  "totalStateList": [
+    {
+      "stateName": "UTTAR PRADESH",
+      "stateEntryBorderList": [
+        "AGRA",
+        "BAGHPAT",
+        "ALIGARH"
       ],
-      "Day 1 - Rs.120": {
-        "Total Days": "1",
-        "Total Payment": "120"
-      },
-      "Day 2 - Rs.240": {
-        "Total Days": "2",
-        "Total Payment": "240"
-      },
-      "Day 3 - Rs.360": {
-        "Total Days": "3",
-        "Total Payment": "360"
-      }
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 120",
+              "totalDays": "1",
+              "totalPayment": "120"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 240",
+              "totalDays": "2",
+              "totalPayment": "240"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 360",
+              "totalDays": "3",
+              "totalPayment": "360"
+            }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 180",
+              "totalDays": "1",
+              "totalPayment": "180"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 360",
+              "totalDays": "2",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 540",
+              "totalDays": "3",
+              "totalPayment": "540"
+            }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 210",
+              "totalDays": "1",
+              "totalPayment": "210"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 420",
+              "totalDays": "2",
+              "totalPayment": "420"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 630",
+              "totalDays": "3",
+              "totalPayment": "630"
+            }
+          ]
+        }
+      ]
     },
-    "6(5+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.180",
-        "Day 2 - Rs.360",
-        "Day 3 - Rs.540"
+    {
+      "stateName": "RAJASTHAN",
+      "stateEntryBorderList": [
+        "ALWAR",
+        "JAIPUR",
+        "BHARATPUR"
       ],
-      "Day 1 - Rs.180": {
-        "Total Days": "1",
-        "Total Payment": "180"
-      },
-      "Day 2 - Rs.360": {
-        "Total Days": "2",
-        "Total Payment": "360"
-      },
-      "Day 3 - Rs.540": {
-        "Total Days": "3",
-        "Total Payment": "540"
-      }
-    },
-    "7(6+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.210",
-        "Day 2 - Rs.420",
-        "Day 3 - Rs.630"
-      ],
-      "Day 1 - Rs.210": {
-        "Total Days": "1",
-        "Total Payment": "210"
-      },
-      "Day 2 - Rs.420": {
-        "Total Days": "2",
-        "Total Payment": "420"
-      },
-      "Day 3 - Rs.630": {
-        "Total Days": "3",
-        "Total Payment": "630"
-      }
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 170",
+              "totalDays": "1",
+              "totalPayment": "170"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 340",
+              "totalDays": "2",
+              "totalPayment": "340"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 510",
+              "totalDays": "3",
+              "totalPayment": "510"
+            }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 180",
+              "totalDays": "1",
+              "totalPayment": "180"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 360",
+              "totalDays": "2",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 540",
+              "totalDays": "3",
+              "totalPayment": "540"
+            }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "taxMode": [
+            {
+              "taxModeName": "Day1 - Rs. 224",
+              "totalDays": "1",
+              "totalPayment": "224"
+            },
+            {
+              "taxModeName": "Day2 - Rs. 448",
+              "totalDays": "2",
+              "totalPayment": "448"
+            },
+            {
+              "taxModeName": "Day3 - Rs. 672",
+              "totalDays": "3",
+              "totalPayment": "672"
+            }
+          ]
+        }
+      ]
     }
-  },
-  "RAJASTHAN": {
-    "ENTRY BORDER LIST": [
-      "ALWAR",
-      "BANSWARA",
-      "BARAN"
-    ],
-    "VEHICLE TYPE LIST": [
-      "5(4+1)",
-      "6(5+1)",
-      "7(6+1)"
-    ],
-    "5(4+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.170",
-        "Day 2 - Rs.340",
-        "Day 3 - Rs.510"
-      ],
-      "Day 1 - Rs.170": {
-        "Total Days": "1",
-        "Total Payment": "170"
-      },
-      "Day 2 - Rs.340": {
-        "Total Days": "2",
-        "Total Payment": "340"
-      },
-      "Day 3 - Rs.510": {
-        "Total Days": "3",
-        "Total Payment": "510"
-      }
-    },
-    "6(5+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.224",
-        "Day 2 - Rs.448",
-        "Day 3 - Rs.672"
-      ],
-      "Day 1 - Rs.224": {
-        "Total Days": "1",
-        "Total Payment": "224"
-      },
-      "Day 2 - Rs.448": {
-        "Total Days": "2",
-        "Total Payment": "448"
-      },
-      "Day 3 - Rs.672": {
-        "Total Days": "3",
-        "Total Payment": "672"
-      }
-    },
-    "7(6+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.224",
-        "Day 2 - Rs.447",
-        "Day 3 - Rs.670"
-      ],
-      "Day 1 - Rs.224": {
-        "Total Days": "1",
-        "Total Payment": "224"
-      },
-      "Day 2 - Rs.447": {
-        "Total Days": "2",
-        "Total Payment": "447"
-      },
-      "Day 3 - Rs.630": {
-        "Total Days": "3",
-        "Total Payment": "630"
-      }
-    }
-  },
-  "HARYANA": {
-    "ENTRY BORDER LIST": [
-      "GURUGRAM",
-      "AMBALA",
-      "BHIWANI"
-    ],
-    "VEHICLE TYPE LIST": [
-      "5(4+1)",
-      "6(5+1)",
-      "7(6+1)"
-    ],
-    "5(4+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.100",
-        "Day 2 - Rs.100",
-        "Day 4 - Rs.300"
-      ],
-      "Day 1 - Rs.100": {
-        "Total Days": "1",
-        "Total Payment": "100"
-      },
-      "Day 2 - Rs.100": {
-        "Total Days": "2",
-        "Total Payment": "100"
-      },
-      "Day 4 - Rs.100": {
-        "Total Days": "4",
-        "Total Payment": "300"
-      }
-    },
-    "6(5+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.100",
-        "Day 2 - Rs.100",
-        "Day 3 - Rs.200"
-      ],
-      "Day 1 - Rs.100": {
-        "Total Days": "1",
-        "Total Payment": "100"
-      },
-      "Day 2 - Rs.100": {
-        "Total Days": "2",
-        "Total Payment": "100"
-      },
-      "Day 3 - Rs.200": {
-        "Total Days": "3",
-        "Total Payment": "200"
-      }
-    },
-    "7(6+1)": {
-      "TAX MODE": [
-        "Day 1 - Rs.250",
-        "Day 2 - Rs.250",
-        "Day 3 - Rs.300"
-      ],
-      "Day 1 - Rs.250": {
-        "Total Days": "1",
-        "Total Payment": "250"
-      },
-      "Day 2 - Rs.250": {
-        "Total Days": "2",
-        "Total Payment": "250"
-      },
-      "Day 3 - Rs.300": {
-        "Total Days": "3",
-        "Total Payment": "250"
-      }
-    }
-  }
+  ]
 }
