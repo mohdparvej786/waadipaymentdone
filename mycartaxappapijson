@@ -16,17 +16,17 @@
           "seatCapacityName": "5(4+1)",
           "totalTaxModeList": [
             {
-              "taxModeName": "Day1 - Rs. 120",
+              "taxModeName": "Day1 - Rs. 120 (एक दिन का टैक्स)",
               "totalDays": "1",
               "totalPayment": "120"
             },
             {
-              "taxModeName": "Day2 - Rs. 240",
+              "taxModeName": "Day2 - Rs. 240 (दो दिन का टैक्स)",
               "totalDays": "2",
               "totalPayment": "240"
             },
             {
-              "taxModeName": "Day3 - Rs. 360",
+              "taxModeName": "Day3 - Rs. 360 (तीन दिन का टैक्स)",
               "totalDays": "3",
               "totalPayment": "360"
             }
