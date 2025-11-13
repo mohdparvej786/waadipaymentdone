@@ -21,17 +21,17 @@
               "totalPayment": "120"
             },
             {
-              "taxModeName": "Day2 - Rs. 240 (दो दिन का टैक्स)",
+              "taxModeName": "Day2 - Rs. 240 (2 दिन का टैक्स)",
               "totalDays": "2",
               "totalPayment": "240"
             },
             {
-              "taxModeName": "Day3 - Rs. 360 (तीन दिन का टैक्स)",
+              "taxModeName": "Day3 - Rs. 360 (3 दिन का टैक्स)",
               "totalDays": "3",
               "totalPayment": "360"
             },
             {
-              "taxModeName": "Day4 - Rs. 360 (चार दिन का टैक्स)",
+              "taxModeName": "Day4 - Rs. 360 (4 दिन का टैक्स)",
               "totalDays": "4",
               "totalPayment": "360"
             },
@@ -48,21 +48,6 @@
             {
               "taxModeName": "Day7 - Rs. 360 (सात दिन का टैक्स)",
               "totalDays": "7",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day8 - Rs. 360 (आठ दिन का टैक्स)",
-              "totalDays": "8",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day9 - Rs. 360 (नौ दिन का टैक्स)",
-              "totalDays": "9",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day10 - Rs. 360 (10 दिन का टैक्स)",
-              "totalDays": "10",
               "totalPayment": "360"
             }
           ]
