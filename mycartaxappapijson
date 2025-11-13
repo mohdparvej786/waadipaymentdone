@@ -5,15 +5,15 @@
   "appOnOffFunction": "on",
   "totalStateList": [
     {
-      "stateName": "UTTAR PRADESH",
+      "stateName": "UTTAR PRADESH (उत्तर प्रदेश)",
       "stateEntryBorderList": [
-        "AGRA",
+        "AGRA (आगरा)",
         "BAGHPAT",
         "ALIGARH"
       ],
       "totalSeatCapacityList": [
         {
-          "seatCapacityName": "5(4+1)",
+          "seatCapacityName": "5(4+1)->पांच सीटों वाली गाड़ी",
           "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 120 (एक दिन का टैक्स)",
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "seatCapacityName": "6(5+1)",
+          "seatCapacityName": "6(5+1) ->(छह सीटों वाली गाड़ी)",
           "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 180",
