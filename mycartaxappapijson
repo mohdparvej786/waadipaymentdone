@@ -5,15 +5,15 @@
   "appOnOffFunction": "on",
   "totalStateList": [
     {
-      "stateName": "UTTAR PRADESH (उत्तर प्रदेश)",
+      "stateName": "UTTAR PRADESH",
       "stateEntryBorderList": [
-        "AGRA (आगरा)",
+        "AGRA",
         "BAGHPAT",
         "ALIGARH"
       ],
       "totalSeatCapacityList": [
         {
-          "seatCapacityName": "5(4+1)->पांच सीटों वाली गाड़ी",
+          "seatCapacityName": "5(4+1)",
           "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 120 (एक दिन का टैक्स)",
@@ -29,11 +29,46 @@
               "taxModeName": "Day3 - Rs. 360 (तीन दिन का टैक्स)",
               "totalDays": "3",
               "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day4 - Rs. 360 (चार दिन का टैक्स)",
+              "totalDays": "4",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day5 - Rs. 360 (पांच दिन का टैक्स)",
+              "totalDays": "5",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day6 - Rs. 360 (छह दिन का टैक्स)",
+              "totalDays": "6",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day7 - Rs. 360 (सात दिन का टैक्स)",
+              "totalDays": "7",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day8 - Rs. 360 (आठ दिन का टैक्स)",
+              "totalDays": "8",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day9 - Rs. 360 (नौ दिन का टैक्स)",
+              "totalDays": "9",
+              "totalPayment": "360"
+            },
+            {
+              "taxModeName": "Day10 - Rs. 360 (10 दिन का टैक्स)",
+              "totalDays": "10",
+              "totalPayment": "360"
             }
           ]
         },
         {
-          "seatCapacityName": "6(5+1) ->(छह सीटों वाली गाड़ी)",
+          "seatCapacityName": "6(5+1)",
           "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 180",
@@ -69,76 +104,6 @@
               "taxModeName": "Day3 - Rs. 630",
               "totalDays": "3",
               "totalPayment": "630"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "stateName": "RAJASTHAN (राजस्थान)",
-      "stateEntryBorderList": [
-        "ALWAR",
-        "JAIPUR",
-        "BHARATPUR"
-      ],
-      "totalSeatCapacityList": [
-        {
-          "seatCapacityName": "पांच सीटर कार (5 Seater)",
-          "totalTaxModeList": [
-            {
-              "taxModeName": "Day1 - Rs. 170",
-              "totalDays": "1",
-              "totalPayment": "170"
-            },
-            {
-              "taxModeName": "Day2 - Rs. 340",
-              "totalDays": "2",
-              "totalPayment": "340"
-            },
-            {
-              "taxModeName": "Day3 - Rs. 510",
-              "totalDays": "3",
-              "totalPayment": "510"
-            }
-          ]
-        },
-        {
-          "seatCapacityName": "6(5+1)",
-          "totalTaxModeList": [
-            {
-              "taxModeName": "Day1 - Rs. 180",
-              "totalDays": "1",
-              "totalPayment": "180"
-            },
-            {
-              "taxModeName": "Day2 - Rs. 360",
-              "totalDays": "2",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day3 - Rs. 540",
-              "totalDays": "3",
-              "totalPayment": "540"
-            }
-          ]
-        },
-        {
-          "seatCapacityName": "7(6+1)",
-          "totalTaxModeList": [
-            {
-              "taxModeName": "Day1 - Rs. 224",
-              "totalDays": "1",
-              "totalPayment": "224"
-            },
-            {
-              "taxModeName": "Day2 - Rs. 448",
-              "totalDays": "2",
-              "totalPayment": "448"
-            },
-            {
-              "taxModeName": "Day3 - Rs. 672",
-              "totalDays": "3",
-              "totalPayment": "672"
             }
           ]
         }
