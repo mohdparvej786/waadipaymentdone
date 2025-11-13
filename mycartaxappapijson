@@ -75,7 +75,7 @@
       ]
     },
     {
-      "stateName": "RAJASTHAN",
+      "stateName": "RAJASTHAN (राजस्थान)",
       "stateEntryBorderList": [
         "ALWAR",
         "JAIPUR",
@@ -83,7 +83,7 @@
       ],
       "totalSeatCapacityList": [
         {
-          "seatCapacityName": "5(4+1)",
+          "seatCapacityName": "पांच सीटर कार (5 Seater)",
           "totalTaxModeList": [
             {
               "taxModeName": "Day1 - Rs. 170",
