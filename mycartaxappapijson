@@ -6,90 +6,140 @@
   "totalStateList": [
     {
       "stateName": "UTTAR PRADESH",
-      "stateEntryBorderList": [
-        "AGRA",
-        "BAGHPAT",
-        "ALIGARH"
-      ],
+      "stateEntryBorderList": ["AGRA", "BAGHPAT", "ALIGARH"],
       "totalSeatCapacityList": [
         {
           "seatCapacityName": "5(4+1)",
           "totalTaxModeList": [
-            {
-              "taxModeName": "Day1(Rs.120)",
-              "totalDays": "1",
-              "totalPayment": "120"
-            },
-            {
-              "taxModeName": "Day2(Rs.240)",
-              "totalDays": "2",
-              "totalPayment": "240"
-            },
-            {
-              "taxModeName": "Day3(Rs.360)",
-              "totalDays": "3",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day4(Rs.480)",
-              "totalDays": "4",
-              "totalPayment": "480"
-            },
-            {
-              "taxModeName": "Day5(Rs.580)",
-              "totalDays": "5",
-              "totalPayment": "580"
-            },
-            {
-              "taxModeName": "Day6(Rs.680)",
-              "totalDays": "6",
-              "totalPayment": "680"
-            },
-            {
-              "taxModeName": "Day7(Rs.800)",
-              "totalDays": "7",
-              "totalPayment": "800"
-            }
+            { "taxModeName": "Day1(Rs.120)", "totalDays": "1", "totalPayment": "120" },
+            { "taxModeName": "Day2(Rs.240)", "totalDays": "2", "totalPayment": "240" },
+            { "taxModeName": "Day3(Rs.360)", "totalDays": "3", "totalPayment": "360" }
           ]
         },
         {
           "seatCapacityName": "6(5+1)",
           "totalTaxModeList": [
-            {
-              "taxModeName": "Day1(Rs. 180)",
-              "totalDays": "1",
-              "totalPayment": "180"
-            },
-            {
-              "taxModeName": "Day2(Rs. 360)",
-              "totalDays": "2",
-              "totalPayment": "360"
-            },
-            {
-              "taxModeName": "Day3 (Rs. 540)",
-              "totalDays": "3",
-              "totalPayment": "540"
-            }
+            { "taxModeName": "Day1(Rs.180)", "totalDays": "1", "totalPayment": "180" },
+            { "taxModeName": "Day2(Rs.360)", "totalDays": "2", "totalPayment": "360" }
           ]
         },
         {
           "seatCapacityName": "7(6+1)",
           "totalTaxModeList": [
-            {
-              "taxModeName": "Day1(Rs. 210)",
-              "totalDays": "1",
-              "totalPayment": "210"
-            },
-            {
-              "taxModeName": "Day2(Rs. 420)",
-              "totalDays": "2",
-              "totalPayment": "420"
-            },
-            {
-              "taxModeName": "Day3(Rs. 630)",
-              "totalDays": "3",
-              "totalPayment": "630"
-            }
+            { "taxModeName": "Day1(Rs.210)", "totalDays": "1", "totalPayment": "210" },
+            { "taxModeName": "Day2(Rs.420)", "totalDays": "2", "totalPayment": "420" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "stateName": "HARYANA",
+      "stateEntryBorderList": ["GURUGRAM", "FARIDABAD", "PANIPAT"],
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.150)", "totalDays": "1", "totalPayment": "150" },
+            { "taxModeName": "Day2(Rs.300)", "totalDays": "2", "totalPayment": "300" }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.200)", "totalDays": "1", "totalPayment": "200" },
+            { "taxModeName": "Day2(Rs.400)", "totalDays": "2", "totalPayment": "400" }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.240)", "totalDays": "1", "totalPayment": "240" },
+            { "taxModeName": "Day2(Rs.480)", "totalDays": "2", "totalPayment": "480" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "stateName": "MADHYA PRADESH",
+      "stateEntryBorderList": ["GWALIOR", "MORENA", "BHOPAL"],
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.110)", "totalDays": "1", "totalPayment": "110" },
+            { "taxModeName": "Day2(Rs.220)", "totalDays": "2", "totalPayment": "220" }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.160)", "totalDays": "1", "totalPayment": "160" },
+            { "taxModeName": "Day2(Rs.320)", "totalDays": "2", "totalPayment": "320" }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.190)", "totalDays": "1", "totalPayment": "190" },
+            { "taxModeName": "Day2(Rs.380)", "totalDays": "2", "totalPayment": "380" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "stateName": "RAJASTHAN",
+      "stateEntryBorderList": ["ALWAR", "BHARATPUR", "JAIPUR"],
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.130)", "totalDays": "1", "totalPayment": "130" },
+            { "taxModeName": "Day2(Rs.260)", "totalDays": "2", "totalPayment": "260" }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.190)", "totalDays": "1", "totalPayment": "190" },
+            { "taxModeName": "Day2(Rs.380)", "totalDays": "2", "totalPayment": "380" }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.220)", "totalDays": "1", "totalPayment": "220" },
+            { "taxModeName": "Day2(Rs.440)", "totalDays": "2", "totalPayment": "440" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "stateName": "UTTARAKHAND",
+      "stateEntryBorderList": ["HARIDWAR", "DEHRADUN", "UDHAM SINGH NAGAR"],
+      "totalSeatCapacityList": [
+        {
+          "seatCapacityName": "5(4+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.140)", "totalDays": "1", "totalPayment": "140" },
+            { "taxModeName": "Day2(Rs.280)", "totalDays": "2", "totalPayment": "280" }
+          ]
+        },
+        {
+          "seatCapacityName": "6(5+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.200)", "totalDays": "1", "totalPayment": "200" },
+            { "taxModeName": "Day2(Rs.400)", "totalDays": "2", "totalPayment": "400" }
+          ]
+        },
+        {
+          "seatCapacityName": "7(6+1)",
+          "totalTaxModeList": [
+            { "taxModeName": "Day1(Rs.230)", "totalDays": "1", "totalPayment": "230" },
+            { "taxModeName": "Day2(Rs.460)", "totalDays": "2", "totalPayment": "460" }
           ]
         }
       ]
